@@ -13,7 +13,7 @@
 }:
 
 buildGoApplication {
-  pname = "myapp";
+  pname = "owrxp-playground";
   version = "0.1";
   pwd = ./.;
   src = ./.;
